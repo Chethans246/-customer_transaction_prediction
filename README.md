@@ -1,14 +1,12 @@
-# -customer_transaction_prediction
-
 # Customer Transaction Prediction
 
-Predicting whether a customer will make a transaction using machine learning — with a focus on handling severe class imbalance in banking data.
+Predicting whether a customer will make a transaction using machine learning with a focus on handling severe class imbalance in banking data.
 
 ---
 
 ## Problem Statement
 
-In banking, the majority of customers do not transact in a given period. This creates a heavily imbalanced dataset where a naive model simply predicts "no transaction" and still achieves high accuracy — but zero business value. The goal of this project is to build a model that reliably identifies the minority class (customers who *will* transact) to enable targeted outreach campaigns.
+In banking, the majority of customers do not transact in a given period. This creates a heavily imbalanced dataset where a naive model simply predicts "no transaction" and still achieves high accuracy but zero business value. The goal of this project is to build a model that reliably identifies the minority class (customers who *will* transact) to enable targeted outreach campaigns.
 
 ---
 
